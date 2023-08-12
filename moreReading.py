@@ -1,0 +1,4 @@
+files = open('MyData', 'w')
+
+
+
